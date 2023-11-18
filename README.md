@@ -37,7 +37,8 @@ The dataset comprises 40,000 concrete images sourced from various METU Campus Bu
 5. **TensorBoard Visualization:**
    - TensorBoard was used to monitor the training process. Here's a snapshot:
      <img width="533" alt="training_process_epoch_accuracy" src="https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/79983780-645b-4810-bec9-d3a4432c78ed">
-     <img width="539" alt="training_process_epoch_loss" src="https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/f08ffb9c-5c9a-40bc-8a60-ce9bf69900a5">
+     <img width="538" alt="training_process_epoch_loss" src="https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/84110d76-0317-4dcd-aba4-2e1aa41b1fde">
+
 
 6. **Model Architecture:**
    - The model architecture is visualized below:
