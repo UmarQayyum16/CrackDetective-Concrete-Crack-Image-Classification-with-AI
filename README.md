@@ -2,16 +2,15 @@
 
 ![FI](https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/8dac7490-569e-474e-8aa7-b8a84d432e44)
 
-
 ## Welcome to the Concrete Crack Image Classification Project!
 
 ### Overview
 
-Concrete cracks can be a serious threat to the safety and durability of buildings. Identifying and addressing these cracks promptly is crucial to prevent further damage. This project introduces an innovative approach to tackle this issue – an image classification model designed to identify concrete cracks automatically. By harnessing the power of deep learning, we aim to revolutionize the way we detect and address structural vulnerabilities.
+Concrete cracks can be a serious threat to the safety and durability of buildings. Identifying and addressing these cracks promptly is crucial to prevent further damage. This project introduces an innovative approach to tackle this issue – an image classification model designed to identify concrete cracks automatically. By harnessing the power of deep learning, this project aims to revolutionize the way we detect and address structural vulnerabilities.
 
 ### Dataset
 
-Our dataset comprises 40,000 concrete images sourced from various METU Campus Buildings. With a resolution of 227 x 227 pixels and RGB channels, each image is a snapshot of the real-world challenges faced by concrete structures. The diversity in surface finish and illumination conditions provides a robust foundation for training our model. We express our gratitude to Özgenel and Sorguç (2018) and Zhang et al. (2016) for their valuable contributions.
+The dataset comprises 40,000 concrete images sourced from various METU Campus Buildings. With a resolution of 227 x 227 pixels and RGB channels, each image is a snapshot of the real-world challenges faced by concrete structures. The diversity in surface finish and illumination conditions provides a robust foundation for training the model. Gratitude is expressed to Özgenel and Sorguç (2018) and Zhang et al. (2016) for their valuable contributions.
 
 **Dataset Source:** [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 
@@ -35,24 +34,18 @@ Our dataset comprises 40,000 concrete images sourced from various METU Campus Bu
 4. **Training Performance:**
    - ![performance_report](https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/27d8fc57-0e0a-4212-a1e2-ab216ad068a4)
 
-
 5. **TensorBoard Visualization:**
    - TensorBoard was used to monitor the training process. Here's a snapshot:
      <img width="533" alt="training_process_epoch_accuracy" src="https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/79983780-645b-4810-bec9-d3a4432c78ed">
      <img width="539" alt="training_process_epoch_loss" src="https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/f08ffb9c-5c9a-40bc-8a60-ce9bf69900a5">
 
-
-
 6. **Model Architecture:**
    - The model architecture is visualized below:
      ![model_architecture](https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/e1b52937-158e-45cf-9bb6-80591a8aff6e)
 
-
 7. **Model Predictions:**
    - Sample predictions on test images:
      ![prediction](https://github.com/UmarQayyum16/CrackDetective-Concrete-Crack-Image-Classification-with-AI/assets/149918632/fec89931-dd59-4858-be51-eb90cf4c6f25)
-
-
 
 ### Conclusion
 
